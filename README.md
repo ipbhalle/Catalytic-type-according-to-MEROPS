@@ -4,12 +4,11 @@ The catalytic type corresponding to each PFAM domain can therefore be traced bac
 
 A column indicating the catalytic type (Aspartic (A), Cysteine (C), Glutamic (G), Metallo (M), Asparagine (N), Mixed (P), Serine (S), Threonine (T), Unknown (U)) to which the protease corresponds is added as metadata.
 
-Required Excel files:
-
-Guy_11_Compiled.xlsx 
-
-
-Protein_accession_final.xlsx 
+  Required Excel files:
+  
+  Guy_11_Compiled.xlsx 
+  
+  Protein_accession_final.xlsx 
 
 
 PFAM.xlsx (contains PFAM-related family and subfamily information
